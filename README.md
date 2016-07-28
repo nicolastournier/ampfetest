@@ -13,7 +13,7 @@ npm install
 
 To run a local RESTful server:
 
-npm install -g json-serve
+npm install -g json-server
 
 json-server --watch db.json
 
