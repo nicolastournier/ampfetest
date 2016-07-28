@@ -1,0 +1,11 @@
+{
+  "super-people": [
+    { "id": 1, "title": "Sean", "imgurl": "/images/sean.png" },
+    { "id": 2, "title": "Yaw", "imgurl": "/images/yaw.png" },
+    { "id": 3, "title": "Lucy", "imgurl": "/images/lucy.png" },
+    { "id": 4, "title": "Eric", "imgurl": "/images/eric.png" },
+    { "id": 5, "title": "Rory", "imgurl": "/images/rory.png" },
+    { "id": 6, "title": "Hayley", "imgurl": "/images/hayley.png" },
+    { "id": 7, "title": "Nic", "imgurl": "/images/nic.jpg" }
+  ]
+}
