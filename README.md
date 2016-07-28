@@ -10,15 +10,11 @@ npm install
 
 
 
-
 To run a local RESTful server:
 
 npm install -g json-server
 
 json-server --watch db.json
-
-This is mapped to localhost:3000
-
 
 
 
@@ -27,7 +23,6 @@ To run the app on a local web server:
 gulp serve
 
 Pleas open a browser and navigate to localhost:3001
-
 
 
 
